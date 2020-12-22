@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: c9410a8c5f177a54c8cd96fb39bf7b19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3335409769052428104
+    second: Ascend Gate, Pillar, Spike Export Version_0
+  - first:
+      213: -6359914079827384424
+    second: Ascend Gate, Pillar, Spike Export Version_1
+  - first:
+      213: 5737204048838093820
+    second: Ascend Gate, Pillar, Spike Export Version_2
+  - first:
+      213: 6258380130846982940
+    second: Ascend Gate, Pillar, Spike Export Version_3
+  - first:
+      213: -6645305717206090715
+    second: Ascend Gate, Pillar, Spike Export Version_4
+  - first:
+      213: -947601720331484083
+    second: Ascend Gate, Pillar, Spike Export Version_5
+  - first:
+      213: 3414775778468420682
+    second: Ascend Gate, Pillar, Spike Export Version_6
+  - first:
+      213: -6916869495500970068
+    second: Ascend Gate, Pillar, Spike Export Version_7
+  - first:
+      213: -814570665448028144
+    second: Ascend Gate, Pillar, Spike Export Version_8
+  - first:
+      213: 7325636187246261307
+    second: Ascend Gate, Pillar, Spike Export Version_9
+  - first:
+      213: -6655088207821191959
+    second: Ascend Gate, Pillar, Spike Export Version_10
+  - first:
+      213: 1561099536493122833
+    second: Ascend Gate, Pillar, Spike Export Version_11
+  - first:
+      213: 273475449858446332
+    second: Ascend Gate, Pillar, Spike Export Version_12
+  - first:
+      213: -4614859027873781214
+    second: Ascend Gate, Pillar, Spike Export Version_13
+  - first:
+      213: -7297897239263090114
+    second: Ascend Gate, Pillar, Spike Export Version_14
+  - first:
+      213: -9049806357735681045
+    second: Ascend Gate, Pillar, Spike Export Version_15
+  - first:
+      213: 886854783262674490
+    second: Ascend Gate, Pillar, Spike Export Version_16
+  - first:
+      213: 4688963064917533846
+    second: Ascend Gate, Pillar, Spike Export Version_17
+  - first:
+      213: -2872802204301104927
+    second: Ascend Gate, Pillar, Spike Export Version_18
+  - first:
+      213: -894046137748006317
+    second: Ascend Gate, Pillar, Spike Export Version_19
+  - first:
+      213: 3965762626930527522
+    second: Ascend Gate, Pillar, Spike Export Version_20
+  - first:
+      213: -5521944434282774898
+    second: Ascend Gate, Pillar, Spike Export Version_21
+  - first:
+      213: 5917487134965870843
+    second: Ascend Gate, Pillar, Spike Export Version_22
+  - first:
+      213: -5657135094684510312
+    second: Ascend Gate, Pillar, Spike Export Version_23
+  - first:
+      213: 4781552310468797548
+    second: Ascend Gate, Pillar, Spike Export Version_24
+  - first:
+      213: -1156111189611384099
+    second: Ascend Gate, Pillar, Spike Export Version_25
+  - first:
+      213: 3032891154313359901
+    second: Ascend Gate, Pillar, Spike Export Version_26
+  - first:
+      213: -3723007384724853099
+    second: Ascend Gate, Pillar, Spike Export Version_27
+  - first:
+      213: 279464827523670377
+    second: Ascend Gate, Pillar, Spike Export Version_28
+  - first:
+      213: -7781761798073327871
+    second: Ascend Gate, Pillar, Spike Export Version_29
+  - first:
+      213: 8734064696972317066
+    second: Ascend Gate, Pillar, Spike Export Version_30
+  - first:
+      213: 8291396176698579564
+    second: Ascend Gate, Pillar, Spike Export Version_31
+  - first:
+      213: -6009937039122492107
+    second: Ascend Gate, Pillar, Spike Export Version_32
+  - first:
+      213: 5233080022649042747
+    second: Ascend Gate, Pillar, Spike Export Version_33
+  - first:
+      213: -5419277749940119442
+    second: Ascend Gate, Pillar, Spike Export Version_34
+  - first:
+      213: 40407193129307523
+    second: Ascend Gate, Pillar, Spike Export Version_35
+  - first:
+      213: 3087586891473866452
+    second: Ascend Gate, Pillar, Spike Export Version_36
+  - first:
+      213: 5541144633245836990
+    second: Ascend Gate, Pillar, Spike Export Version_37
+  - first:
+      213: -2773069757693422991
+    second: Ascend Gate, Pillar, Spike Export Version_38
+  - first:
+      213: -315875208432594131
+    second: Ascend Gate, Pillar, Spike Export Version_39
+  - first:
+      213: 5914385493608378371
+    second: Ascend Gate, Pillar, Spike Export Version_40
+  - first:
+      213: -562053302427306979
+    second: Ascend Gate, Pillar, Spike Export Version_41
+  - first:
+      213: 8549558064531872905
+    second: Ascend Gate, Pillar, Spike Export Version_42
+  - first:
+      213: 2906194025372950698
+    second: Ascend Gate, Pillar, Spike Export Version_43
+  - first:
+      213: 7366078841462483341
+    second: Ascend Gate, Pillar, Spike Export Version_44
+  - first:
+      213: -1735885160713981652
+    second: Ascend Gate, Pillar, Spike Export Version_45
+  - first:
+      213: -1649784044047179753
+    second: Ascend Gate, Pillar, Spike Export Version_46
+  - first:
+      213: -2135734330611713652
+    second: Ascend Gate, Pillar, Spike Export Version_47
+  - first:
+      213: -6184973111562970462
+    second: Ascend Gate, Pillar, Spike Export Version_48
+  - first:
+      213: 1079470897242155422
+    second: Ascend Gate, Pillar, Spike Export Version_49
+  - first:
+      213: 3754085002740702804
+    second: Ascend Gate, Pillar, Spike Export Version_50
+  - first:
+      213: -1422700197301859486
+    second: Ascend Gate, Pillar, Spike Export Version_51
+  - first:
+      213: 7811247602589320391
+    second: Ascend Gate, Pillar, Spike Export Version_52
+  - first:
+      213: -8087575253673860307
+    second: Ascend Gate, Pillar, Spike Export Version_53
+  - first:
+      213: 4565882499915836839
+    second: Ascend Gate, Pillar, Spike Export Version_54
+  - first:
+      213: 7392025139161108105
+    second: Ascend Gate, Pillar, Spike Export Version_55
+  - first:
+      213: 6207070090030867505
+    second: Ascend Gate, Pillar, Spike Export Version_56
+  - first:
+      213: 3712051600691531239
+    second: Ascend Gate, Pillar, Spike Export Version_57
+  - first:
+      213: 2454000923018122268
+    second: Ascend Gate, Pillar, Spike Export Version_58
+  - first:
+      213: -9200505167817609449
+    second: Ascend Gate, Pillar, Spike Export Version_59
+  - first:
+      213: 6137125490455129907
+    second: Ascend Gate, Pillar, Spike Export Version_60
+  - first:
+      213: -5183919032920788035
+    second: Ascend Gate, Pillar, Spike Export Version_61
+  - first:
+      213: -6417920727381444450
+    second: Ascend Gate, Pillar, Spike Export Version_62
+  - first:
+      213: -8050671880130112401
+    second: Ascend Gate, Pillar, Spike Export Version_63
+  - first:
+      213: -3576280583516298418
+    second: Ascend Gate, Pillar, Spike Export Version_64
+  - first:
+      213: -3102775491115203582
+    second: Ascend Gate, Pillar, Spike Export Version_65
+  - first:
+      213: -8738332871265989693
+    second: Ascend Gate, Pillar, Spike Export Version_66
+  - first:
+      213: -656413749766579138
+    second: Ascend Gate, Pillar, Spike Export Version_67
+  - first:
+      213: -22454572433729241
+    second: Ascend Gate, Pillar, Spike Export Version_68
+  - first:
+      213: -7965374920107004375
+    second: Ascend Gate, Pillar, Spike Export Version_69
+  - first:
+      213: -3954357217081316390
+    second: Ascend Gate, Pillar, Spike Export Version_70
+  - first:
+      213: -831634348875499503
+    second: Ascend Gate, Pillar, Spike Export Version_71
+  - first:
+      213: 5535175208239152076
+    second: Ascend Gate, Pillar, Spike Export Version_72
+  - first:
+      213: -6911754628853565293
+    second: Ascend Gate, Pillar, Spike Export Version_73
+  - first:
+      213: 7655489968297934800
+    second: Ascend Gate, Pillar, Spike Export Version_74
+  - first:
+      213: 6566494639563746002
+    second: Ascend Gate, Pillar, Spike Export Version_75
+  - first:
+      213: -1355264225192259215
+    second: Ascend Gate, Pillar, Spike Export Version_76
+  - first:
+      213: 2482375346783574369
+    second: Ascend Gate, Pillar, Spike Export Version_77
+  - first:
+      213: 6473271012140995057
+    second: Ascend Gate, Pillar, Spike Export Version_78
+  - first:
+      213: 6488949256754788346
+    second: Ascend Gate, Pillar, Spike Export Version_79
+  - first:
+      213: -1700274520955671229
+    second: Ascend Gate, Pillar, Spike Export Version_80
+  - first:
+      213: -7860511672464052043
+    second: Ascend Gate, Pillar, Spike Export Version_81
+  - first:
+      213: -3794532580495119165
+    second: Ascend Gate, Pillar, Spike Export Version_0
+  - first:
+      213: 513260482930772069
+    second: Ascend Gate, Pillar, Spike Export Version_1
+  - first:
+      213: -6875537459843399027
+    second: Ascend Gate, Pillar, Spike Export Version_2
+  - first:
+      213: -3021627781649718182
+    second: Ascend Gate, Pillar, Spike Export Version_3
+  - first:
+      213: -5935658357018098189
+    second: Heart, Pillar, Spike_0
+  - first:
+      213: -3166058226091253121
+    second: Heart, Pillar, Spike_1
+  - first:
+      213: -1668249754517524033
+    second: Heart, Pillar, Spike_2
+  - first:
+      213: -4155192801905984876
+    second: Heart, Pillar, Spike_3
+  - first:
+      213: -7241966697381620566
+    second: Heart, Pillar, Spike_4
+  - first:
+      213: -5002511632193103857
+    second: Heart, Pillar, Spike_5
+  - first:
+      213: 1537323421228813333
+    second: Heart, Pillar, Spike_6
+  - first:
+      213: 3475135689241570039
+    second: Heart, Pillar, Spike_7
+  - first:
+      213: 5451262417750137574
+    second: Heart, Pillar, Spike_8
+  - first:
+      213: 1289700543162715652
+    second: Heart, Pillar, Spike_9
+  - first:
+      213: -7771729220108203311
+    second: Heart, Pillar, Spike_10
+  - first:
+      213: -8280237308983642343
+    second: Heart, Pillar, Spike_11
+  - first:
+      213: -5748568055430911378
+    second: Heart, Pillar, Spike_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f58bd93c2e40ada0800000000000000
+      internalID: -5935658357018098189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72a0af51d6ef04d0800000000000000
+      internalID: -3166058226091253121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 24
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1b951efaf29d8e0800000000000000
+      internalID: -1668249754517524033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 24
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a322d692ac556c0800000000000000
+      internalID: -4155192801905984876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa41c5788ad5f7b90800000000000000
+      internalID: -7241966697381620566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08de5acc22839ab0800000000000000
+      internalID: -5002511632193103857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 20
+        width: 7
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c4b3ba18ba55510800000000000000
+      internalID: 1537323421228813333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 2
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faa68f4f792a3030800000000000000
+      internalID: 3475135689241570039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea1f637946c6ab40800000000000000
+      internalID: 5451262417750137574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e87d59fcfe5e110800000000000000
+      internalID: 1289700543162715652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 13
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da4de06375452490800000000000000
+      internalID: -7771729220108203311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f71eb900b61d80800000000000000
+      internalID: -8280237308983642343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart, Pillar, Spike_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ae1e09fcbf830b0800000000000000
+      internalID: -5748568055430911378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
